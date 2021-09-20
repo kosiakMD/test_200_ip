@@ -2,6 +2,7 @@
 
 What would you do differently if you had more time?
 
+I would clarify and make appropriate changes for the situation if we have multiple IPs with the same count occurring but part of them are out of the limit: what will be in the pool? first income or last?
 I would think about asynchronous queue with sorting, but it could not ok with consistent (CAP theorem)
 I would add tests
 I would measure a few more approaches to find faster (e.g. to not delete IPs from Sets when it increments but remove duplicates in the giving top 200 functions)
